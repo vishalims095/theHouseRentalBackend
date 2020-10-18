@@ -1,5 +1,7 @@
 # TentHouseRental Backend
 
+## At first run `npm i` install all dependencies
+
 ## Node JS Code Run
 
 Run `npm start` it will start backend Server
